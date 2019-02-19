@@ -34,6 +34,8 @@ https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
 - Introduction to python for data science [B]
 https://www.datacamp.com/courses/intro-to-python-for-data-science
+&
+https://www.coursera.org/specializations/ibm-data-science-professional-certificate
 
 - Want to dive deeper into Data Visualization & Pre-Processing ? Look into Data Visualization & Pre-Processing section in miscellaneous resources . [ Highly optional ]  
  
